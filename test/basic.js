@@ -1,7 +1,7 @@
 'use strict';
 
 const keyvault = require('azure-keyvault');
-const KVDict = require('../lib/index');
+const KVDict = require('../lib/index').KVDict;
 const assert = require('assert');
 
 describe("KVDict", function () {
