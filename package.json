@@ -1,0 +1,26 @@
+{
+  "name": "azure-keyvault-dict",
+  "version": "0.1.0",
+  "description": "work with azure-keyvault as if it was a simple key-value store",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --harmony_proxies"
+  },
+  "keywords": [
+    "azure",
+    "keyvault",
+    "dictionary",
+    "dict",
+    "key",
+    "value"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "dependencies": {
+    "azure-keyvault": "^0.10.1",
+    "deasync": "^0.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
