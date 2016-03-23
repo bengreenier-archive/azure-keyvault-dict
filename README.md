@@ -1,6 +1,5 @@
 azure-keyvault-dict
 ===================
-
 > Note: this requires support for ES6 Proxies! In node that means running with the `--harmony_proxies` flag for the time being.
 
 work with azure-keyvault as if it was a simple key-value store
@@ -8,6 +7,8 @@ work with azure-keyvault as if it was a simple key-value store
 # How do I...
 
 ## Install this module?
+
+> Note: This hasn't shipped yet! Still in progress.
 
 `npm install azure-keyvault-dict`
 
